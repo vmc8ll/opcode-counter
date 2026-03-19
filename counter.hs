@@ -6,7 +6,7 @@
 -- |
 -- Module:      OpcodeCounter
 -- Description: x86/x64 opcode frequency analyzer in Haskell
--- Author:      Ilya Markin
+-- Author:      vmc8ll
 -- 
 -- A high-performance opcode counter that demonstrates:
 -- - Binary parsing with attoparsec
